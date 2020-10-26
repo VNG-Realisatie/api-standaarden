@@ -2,13 +2,13 @@
   link: /productvisie/
   weight: 10
 - name: Zaakgericht Werken
-  link: https://vng-realisatie.github.io/gemma-zaken/
+  link: "https://vng-realisatie.github.io/gemma-zaken/" 
   weight: 20
 - name: Haal Centraal
-  link: https://github.com/VNG-Realisatie/Haal-Centraal
+  link: "https://github.com/VNG-Realisatie/Haal-Centraal"
   weight: 30
 - name: Common Ground
-  link: https://commonground.nl/ 
+  link: "https://commonground.nl/"
   weight: 40
 - name: Beheer
   link: /beheer/
