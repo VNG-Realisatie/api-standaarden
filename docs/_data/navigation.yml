@@ -1,0 +1,15 @@
+- name: API Standaarden
+  link: /
+  weight: 10
+- name: Zaakgericht Werken
+  link: "https://vng-realisatie.github.io/gemma-zaken/" 
+  weight: 20
+- name: Haal Centraal
+  link: "https://github.com/VNG-Realisatie/Haal-Centraal"
+  weight: 30
+- name: Common Ground
+  link: "https://commonground.nl/"
+  weight: 40
+- name: Ondersteuning
+  link: /ondersteuning/
+  weight: 60
