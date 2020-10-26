@@ -33,3 +33,5 @@ remote_theme: VNG-Realisatie/jekyll-theme-vng
 github: VNG-Realisatie/api-standaarden
 
 theme: jekyll-theme-time-machine
+
+project_name: api-standaarden
