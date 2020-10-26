@@ -10,9 +10,6 @@
 - name: Common Ground
   link: "https://commonground.nl/"
   weight: 40
-- name: Beheer
-  link: /beheer/
-  weight: 50
 - name: Ondersteuning
   link: /ondersteuning/
   weight: 60
