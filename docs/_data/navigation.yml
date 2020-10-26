@@ -1,21 +1,18 @@
-- name: Productvisie
+- name: API Standaarden
   link: /productvisie/
   weight: 10
-- name: API's
-  link: /standaard/
+- name: Zaakgericht Werken
+  link: https://vng-realisatie.github.io/gemma-zaken/
   weight: 20
-- name: Ontwikkelaars
-  link: /ontwikkelaars/
+  - name: Haal Centraal
+  link: https://github.com/VNG-Realisatie/Haal-Centraal
   weight: 30
-- name: Thema's
-  link: /themas/
+- name: Common Ground
+  link: https://commonground.nl/ 
   weight: 40
 - name: Beheer
   link: /beheer/
-  weight: 45
-- name: Doorontwikkeling
-  link: /doorontwikkeling/
   weight: 50
-- name: Contact
-  link: /contact/
+- name: Ondersteuning
+  link: /ondersteuning/
   weight: 60
