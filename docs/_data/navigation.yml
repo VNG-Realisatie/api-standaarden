@@ -4,7 +4,7 @@
 - name: Zaakgericht Werken
   link: https://vng-realisatie.github.io/gemma-zaken/
   weight: 20
-  - name: Haal Centraal
+- name: Haal Centraal
   link: https://github.com/VNG-Realisatie/Haal-Centraal
   weight: 30
 - name: Common Ground
